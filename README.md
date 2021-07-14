@@ -25,7 +25,7 @@ https://github.com/phamhongphuc/nuxt-vite-tailwindcss
 ### Description
 
 #### 1. Hot Reload issue
-Related to #159 
+Related to https://github.com/nuxt/vite/issues/159
 #### 2. Start dev server failed
 ```bash
  ERROR  Cannot read property 'importedModules' of undefined                                                   14:47:14
