@@ -15,12 +15,12 @@ See the following table for more details.
 
 ### Reproduction & Versions
 https://github.com/phamhongphuc/nuxt-vite-tailwindcss
-| branch          | nuxt-vite | @nuxtjs/tailwindcss | jit mode | dev server | hot reload |
-|-----------------|-----------|---------------------|----------|-------|------------|
-| `tw-jit`          | ❌         | `4.2.1`             | ✔        | ✔     | ✔          |
-| `vite-old-tw-jit` | `0.1.1`   | `4.2.0`            | ✔        | ✔     | ❌          |
-| `vite-tw-jit`     | `0.1.1`   | `4.2.1`             | ✔        | ❌     | ❌          |
-| `vite-tw-no-jit`  | `0.1.1`   | `4.2.1`             | ❌        | ✔     | ✔          |
+| branch                                                                                                 | nuxt-vite | @nuxtjs/tailwindcss | jit mode | dev server | hot reload |
+|--------------------------------------------------------------------------------------------------------|-----------|---------------------|----------|------------|------------|
+| [`tw-jit`](https://github.com/phamhongphuc/nuxt-vite-tailwindcss-issue/tree/tw-jit)                    | `no`      | `4.2.1`             | ✔        | ✔         | ✔         |
+| [`vite-old-tw-jit`](https://github.com/phamhongphuc/nuxt-vite-tailwindcss-issue/tree/vite-old-tw-jit)  | `0.1.1`   | `4.2.0`             | ✔        | ✔         | ❌        |
+| [`vite-tw-jit`](https://github.com/phamhongphuc/nuxt-vite-tailwindcss-issue/tree/vite-tw-jit)          | `0.1.1`   | `4.2.1`             | ✔        | ❌        | ❌        |
+| [`vite-tw-no-jit`](https://github.com/phamhongphuc/nuxt-vite-tailwindcss-issue/tree/vite-tw-no-jit)    | `0.1.1`   | `4.2.1`             | ❌       | ✔         | ✔         |
 
 ### Description
 
